@@ -1,0 +1,14 @@
+Feel Free To Learn From This program of mine. Some of the snippets were also taken from PSC.
+Not a very good coding since i hav'nt gone to a formal programming course 
+but i belive that this will somehow usefull to anyone.
+
+Please Vote if you like this program and submit a source code too so that you
+can help others, especially the begineers. Thnx and God Bless!
+
+
+To open the program:
+
+User Name: q
+Password: q
+
+Database Password: AdmiN

@@ -1,0 +1,12 @@
+MDIForm1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+VRENTAL_ENGINE = 0, 0, 0, 0, C
+VRENTAL_MODULE1 = 0, 0, 0, 0, C
+frmUser = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMembers = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCDtapes = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSearch = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmTransaction = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmReturnItems = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmReport = 44, 44, 375, 390, , 22, 22, 353, 368, C
+frmPermission = 0, 0, 0, 0, C, 0, 0, 0, 0, C
